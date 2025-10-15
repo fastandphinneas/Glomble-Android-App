@@ -1,4 +1,4 @@
-REM https://github.com/fastandphinneas/Glomble-Android-App/blob/main/LICENSE
+REM https://github.com/fastandphinneas/Glomble-Android-App
 REM Glomble App for Android (Mobile Optimized, TV version available from repo)
 url$ = "https://glomble.com/"
 PAUSE 500
